@@ -1,4 +1,4 @@
-#Project Bolg_Authentication-Authorizatio
+#Bolg_Authentication-Authorizatio
 
 In this project we will:
 Create an application where users can register, log in, and reset and change
