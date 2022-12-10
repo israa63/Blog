@@ -1,8 +1,5 @@
 # Bolg_Authentication-Authorizatio
 
-In this project we will:
-* Create an application where users can register, log in, and reset and change
-   passwords on their own
-* Edit the default Django templates responsible for user management
-* Send password reset emails to actual email addresses
-* Authenticate using an external service
+Built project on authentication and authorization
+* Authentication: the act of verifying a user’s identity, confirming they are who they say they are.
+* Authorization: deciding whether a user is allowed to perform an action If a page on your website is restricted to logged-in users, then users have to authenticate before they can be authorized to view the page Most backend frameworks have both ready, Django as well Django view authorization is typically done with decorators.
